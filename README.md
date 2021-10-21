@@ -1,2 +1,14 @@
 # An Analysis of Kickstarter Campaigns
-An analysis of kickstarter campaigns conducted for my main squeeze Louise. 
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
