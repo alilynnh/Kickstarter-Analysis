@@ -1,6 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of Project
 
+### Background
+
 ### Purpose
 
 ## Analysis and Challenges
