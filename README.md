@@ -7,7 +7,7 @@ The client for this project was an up-and-coming playwright who wanted to create
 The purpose of the current project was to analyze the previous campaign data in order to compare the campaign outcomes in relation to their respective launch dates and monetary goals. The results of the analysis can be used by the client to make informed decisions about their future ventures, as well as compare their results to other campaigns.   
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-To conduct the analysis of outcomes based on launch date, a pivot table was created with the following parameters: <!-- not sure if parameter is a good word, may change -->
+To begin the analysis of outcomes based on launch date, a pivot table was created with the following parameters: <!-- not sure if parameter is a good word, may change -->
 
 | Parameter | Field Used |
 | --------- | -------- |
@@ -24,7 +24,7 @@ Next, a pivot chart was generated with the months on the x-axis, the count of ou
 
 <!-- Figure out how to insert image of chart lol -->
 ### Analysis of Outcomes Based on Goals
-
+To begin the analysis of outcomes based on goals, a table was created with each row being a different goal amount category. The first category included goals less than $1000, and the subsequent increasing goal categories had ranges of $5000. The number of successful, failed, and canceled crowdfunding campaigns for plays were calculated for each goal category by using COUNTIFS statements. For example, to obtain the number of successful campaigns for plays that had goals from $1000 to $4999 was determined with =COUNTIFS(Kickstarter!$F:$F, "successful", Kickstarter!$D:$D, ">=1000", Kickstarter!$D:$D, "<=4999", Kickstarter!$R:$R, "plays").  
 ### Challenges and Difficulties Encountered
 
 ## Results
