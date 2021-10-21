@@ -10,7 +10,7 @@ The purpose of the current project was to analyze the previous campaign data in 
 To conduct the analysis of outcomes based on launch date, a pivot table was created with the following parameters:
 
 | Columns  | Outcomes |
-| Rows| Date Created |
+| ---------| -------- |
 | Values | Count of Outcomes |
 | Filters  | Parent Category & Years |
 
