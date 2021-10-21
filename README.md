@@ -2,9 +2,9 @@
 ## Overview of Project
 
 ### Background
-The client <!-- my main squeeze louise--> for this project was an up-and-coming playwright who wanted to create a crowdfunding campaign titled "Fever". In a previous project for this client, data from previous crowdfunding campaigns was analyzed in order to determine a budget for the client's campaign. Once a budget was set, the client successfully raised the goal amount in a short period of time. The client then requested further analyses of the crowdfunding campaign data. <!--louise is needy-->
+The client for this project was an up-and-coming playwright <!-- aka my main squeeze louise--> who wanted to create a crowdfunding campaign for a play titled "Fever". In a previous project for this client, data from previous crowdfunding campaigns was analyzed in order to determine a budget for the client's campaign. Once a budget was set, the client successfully raised the goal amount in a short period of time. The client then requested further analyses of the crowdfunding campaign data. <!--louise is needy-->
 ### Purpose
-The purpose of the current project was to analyze the previous campaign data in order to compare the campaign outcomes in relation to their respective launch dates and monetary goals. The results of the analysis can be used by the client to make informed decisions about their future ventures, as well as compare their results to other campaigns.   
+The purpose of the current project was to analyze the previous campaign data in order to compare the campaign outcomes in relation to their respective launch dates and monetary goals. The results of the analysis can be used by the client to make informed decisions about their future ventures, as well as compare their campaign results to other campaigns to.   
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 To begin the analysis of outcomes based on launch date, a pivot table was created with the following parameters: <!-- not sure if parameter is a good word, may change -->
