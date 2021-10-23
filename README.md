@@ -22,7 +22,8 @@ After creating the initial table, the dates were grouped by month and was filter
 
 Next, a pivot chart was generated with the months on the x-axis, the count of outcomes on the y-axis, and each outcome denoted by a differently colored line. This was done in order to visualize the breakdown of campaign outcomes for each month and to visually determine if trends are present. The chart can be seen below. 
 
-![](Resources/Theater_Outcomes_vs_Launch.png) <!-- Figure out how to insert image of chart lol -->
+<!-- Figure out how to insert image of chart lol -->
+
 ### Analysis of Outcomes Based on Goals
 To begin the analysis of outcomes based on goals, a table was created with each row being a different goal amount category. The first category included goals less than $1000, and the subsequent increasing goal categories had ranges of $5000. The number of successful, failed, and canceled crowdfunding campaigns for plays were calculated for each goal category by using COUNTIFS statements. For example, to obtain the number of successful campaigns for plays that had goals from $1000 to $4999 was determined with =COUNTIFS(Kickstarter!$F:$F, "successful", Kickstarter!$D:$D, ">=1000", Kickstarter!$D:$D, "<=4999", Kickstarter!$R:$R, "plays"). The total number of campaigns for each goal category was then tallied and used to calculate the percentage of successful, failed, and cancelled campaigns for each goal category. The completed table is below. 
 
