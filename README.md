@@ -17,7 +17,7 @@ To begin the analysis of outcomes based on launch date, a pivot table was create
 | Filters  | Parent Category & Years |
 
 After creating the initial table, the dates were grouped by month and the table was filtered to only include theater campaigns. This resulted in the table below. 
-
+<img src="Resources/Outcomes_vs_Launch_Table.png" height="50%" width="50%">
 ![](Resources/Outcomes_vs_Launch_Table.png) 
 
 Next, a pivot chart was generated with the months on the x-axis, the count of outcomes on the y-axis, and each outcome denoted by a differently colored line. This was done in order to visualize the breakdown of campaign outcomes for each month and to visually determine if trends are present. The chart can be seen below. 
